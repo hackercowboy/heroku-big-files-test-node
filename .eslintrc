@@ -1,0 +1,10 @@
+{
+    "parser": "@babel/eslint-parser",
+    "rules": {
+        "max-len": [
+            2,
+            180
+          ]
+    },
+    "extends": "airbnb-base"
+}
